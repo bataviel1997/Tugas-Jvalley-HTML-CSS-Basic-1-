@@ -1,3 +1,4 @@
+/* Resetter Css */
 * {
   box-sizing: border-box;
 }
@@ -11,7 +12,8 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   overflow-x: hidden;
 }
-
+/* Resetter css end */
+/* code edit navigasi bar */
 .navbar {
   height: 60px;
   background-color: orange;
@@ -40,11 +42,12 @@ body {
   margin-left: 10px;
   text-transform: uppercase;
 }
-
+/* code edit navigasi bar end */
+/* code edit main */
 main {
   padding: 40px;
 }
-
+/* code edit hero */
 .hero {
   height: 500px;
   position: relative;
@@ -105,7 +108,8 @@ main {
   font-size: 14;
   font-family: inherit;
 }
-
+/* code edit hero end */
+/* code edit section */
 section {
   margin: 60px 0;
 }
@@ -147,3 +151,4 @@ section p {
   max-width: 400px;
   color: azure;
 }
+/* code edit section end */
